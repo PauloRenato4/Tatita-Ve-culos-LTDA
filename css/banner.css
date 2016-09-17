@@ -1,0 +1,52 @@
+
+
+#conteudo{
+	
+	width:1270px;
+	position:relative;
+	background-color: lightgray;
+	
+}
+
+#bannerOut span{
+	position:absolute;
+	background: rgb(0, 0, 0); 
+   	background: rgba(0, 0, 0, 0.3);
+   	background-color: lightgray;
+	opacity: 0.1;
+	bottom:0;
+	left:0;
+	display:none;
+	width:780px;
+	
+}
+.escondido{
+	display:none;
+}
+.visivel{
+	display:block;
+}
+
+img{
+	margin-top: 50px;
+	width:900px;
+	height:350px;
+	margin-left: 200px;
+}
+
+
+
+#es1, #es2, #es3, #es4, #es5, #es6, #es7, #es8 {
+margin-top: 10px;
+	width: 80px;
+	height: 80px;
+	margin-left: 400px;
+	position: center;
+
+}
+
+
+#diferencial{
+
+	background-color: lightgray;
+}
