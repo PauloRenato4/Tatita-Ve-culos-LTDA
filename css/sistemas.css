@@ -123,6 +123,8 @@ width: 134.7px;
 	text-align: center;
 		text-decoration: none;
 	background-color: darkblue;
+	border-radius: 10px 10px 10px 10px;
+
 }
 
 #menuInt ul li a{
@@ -189,5 +191,17 @@ width:235px;
 text-align: center;
 }
 
+#diferencial{
 
+margin-left: 60px;
+margin-right: 60px;
+text-align: center;
+position: center;
+}
 
+#topicos{
+background-color: lightgray;
+margin-left: 60px;
+margin-right: 60px;
+
+}
